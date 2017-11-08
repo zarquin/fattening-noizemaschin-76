@@ -1,0 +1,14 @@
+# test spoon fight patch file
+# loops created by me.
+[KickDrum]
+filepath=loops/fattening-kicks3.wav
+
+[Hatz]
+filepath=loops/Fattening-zats2.wav
+
+[vox]
+filepath=loops/fattening-loop-w.wav
+
+[weirdnoise]
+filepath=loops/fattening-gloom.wav
+
